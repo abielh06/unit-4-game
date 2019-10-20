@@ -1,0 +1,91 @@
+body {
+    
+    background-color: #fffffd;
+    margin: auto;
+   }
+.header {
+    width: 30%;
+    /* margin-left: 2%; */
+    margin: auto;
+    text-align: center;
+    background-color: #00e5ff;
+    border: 8px solid;
+    border-color: #00a9ff;
+    border-left-color: #00a9ff;
+}
+
+.instructions {
+    width: 50%;
+    /* margin: 2%; */
+    margin: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: silver;
+    border: 2px solid rgb(20, 82, 145);
+}
+
+.random-number {
+    width: 15%;
+    text-align: center;
+    background-color: #00e5ff;
+    border: 8px solid;
+    border-color: #00a9ff;
+    margin: auto;
+    
+    font-size: 4em;
+}
+
+.crystal-array {
+    text-align: center;
+    background-color: silver;
+    border: 2px solid dodgerblue;
+    width: 50%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    /* margin-left: 15px; */
+    margin: auto;
+}
+
+
+.diamond {
+    background-color: #8c00c3;
+    margin: auto;
+}
+
+.emerald {
+    background-color: #239900;
+}
+
+.ruby {
+    background-color: #cc0000;
+}
+
+.topaz {
+    background-color: #facc00;
+}
+.total-score {
+    float: left;
+    /* position: absolute; */
+    text-align: center;
+    background-color: #00e5ff;
+    border: 8px solid;
+    border-color: #00a9ff;
+    font-size: 40px;
+    width: 90%;
+    margin: auto;
+    
+    padding-bottom: 12px;
+}
+
+.wins-loses {
+    float: left;
+    /* position: absolute; */
+    text-align: center;
+    width: 100%;
+    background-color: #00e5ff;
+    border: 8px solid;
+    border-color: #00a9ff;
+    padding-bottom: -12px ;
+    margin: auto;
+    font-size: 21.5px;
+}
